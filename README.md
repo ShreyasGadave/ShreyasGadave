@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasgadave&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasgadave" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **FullStack**
 
 - 🌱 I’m currently learning **DSA in Java**
 
