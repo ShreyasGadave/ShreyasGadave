@@ -1,4 +1,4 @@
-<img src="../header_1.png" alt="Header Image" style="width: 100%;" />
+<img src="header_1.png" alt="Header Image" style="width: 100%;" />
 <h1 align="center">Hi 👋, I'm Shreyas Gadave</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
